@@ -1,0 +1,13 @@
+.usersContainer {
+  margin-left: 15px;
+}
+.userContainer {
+  margin-bottom: 20px;
+}
+.userContainer button {
+  margin-bottom: 5px;
+}
+.userPhoto {
+  width: 150px;
+  border-radius: 8px;
+}

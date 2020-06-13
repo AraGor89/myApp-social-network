@@ -1,0 +1,27 @@
+.paginator {
+  height: 40px;
+  margin: 10px;
+}
+.pageNumbers {
+  margin: 2px;
+  padding: 2px;
+  font-weight: bold;
+  cursor: pointer;
+  color: #02c0b4;
+  margin: 0px 5px 0px 5px;
+}
+.selectdePage {
+  font-weight: bold;
+  color: green;
+  font-size: 20px;
+}
+.pageNumbers:hover {
+  box-shadow: 1px 2px 2px 2px lightblue;
+  font-size: 20px;
+}
+.nextButton {
+  margin-left: 10px;
+}
+.prevButton {
+  margin-right: 10px;
+}

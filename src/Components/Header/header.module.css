@@ -1,0 +1,43 @@
+.header {
+  grid-area: h;
+  background-color: #00e6dc;
+  border-radius: 10px;
+}
+
+.header img {
+  width: 120px;
+}
+.login_block {
+  float: right;
+}
+
+.login_block a {
+  color: white;
+}
+.login {
+  font-size: larger;
+  color: white;
+  margin-right: 50px;
+  margin-top: 10px;
+  text-align: center;
+}
+.logInButton {
+  margin-right: 50px;
+  margin-top: 10px;
+  width: 130px;
+  height: 25px;
+  border: none;
+  box-shadow: 2px 2px 2px 2px lightblue;
+}
+.logOutButton {
+  width: 130px;
+  height: 25px;
+  display: block;
+  border: none;
+  margin-top: 5px;
+  box-shadow: 2px 2px 2px 2px lightblue;
+}
+.myAppPhoto {
+  margin-left: 15px;
+  height: 100%;
+}

@@ -1,0 +1,24 @@
+.descriptionBlock {
+  padding-left: 10px;
+}
+.contact {
+  padding-left: 20px;
+}
+.profilePic {
+  width: 200px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 1px 2px lightblue;
+}
+
+input[type="file"] {
+  background-color: #02c0b4;
+  border-radius: 10px;
+  color: black;
+  box-shadow: 1px 2px 2px 2px lightblue;
+  outline: none;
+  font-size: small;
+  margin-left: 5px;
+}
+input[type="file"]:active {
+  box-shadow: 1px 5px 5px 5px lightblue;
+}
