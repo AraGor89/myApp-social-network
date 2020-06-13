@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/myApp-social-network/static/css/main.370dda9a.chunk.css",
+    "main.js": "/myApp-social-network/static/js/main.09fafd62.chunk.js",
+    "main.js.map": "/myApp-social-network/static/js/main.09fafd62.chunk.js.map",
+    "runtime-main.js": "/myApp-social-network/static/js/runtime-main.850c4125.js",
+    "runtime-main.js.map": "/myApp-social-network/static/js/runtime-main.850c4125.js.map",
+    "static/js/2.1c203ea7.chunk.js": "/myApp-social-network/static/js/2.1c203ea7.chunk.js",
+    "static/js/2.1c203ea7.chunk.js.map": "/myApp-social-network/static/js/2.1c203ea7.chunk.js.map",
+    "static/css/3.50779102.chunk.css": "/myApp-social-network/static/css/3.50779102.chunk.css",
+    "static/js/3.2ae9975b.chunk.js": "/myApp-social-network/static/js/3.2ae9975b.chunk.js",
+    "static/js/3.2ae9975b.chunk.js.map": "/myApp-social-network/static/js/3.2ae9975b.chunk.js.map",
+    "static/css/4.674e462f.chunk.css": "/myApp-social-network/static/css/4.674e462f.chunk.css",
+    "static/js/4.927c3fed.chunk.js": "/myApp-social-network/static/js/4.927c3fed.chunk.js",
+    "static/js/4.927c3fed.chunk.js.map": "/myApp-social-network/static/js/4.927c3fed.chunk.js.map",
+    "index.html": "/myApp-social-network/index.html",
+    "precache-manifest.f734b9667276c4dfb9db02818c38bb28.js": "/myApp-social-network/precache-manifest.f734b9667276c4dfb9db02818c38bb28.js",
+    "service-worker.js": "/myApp-social-network/service-worker.js",
+    "static/css/3.50779102.chunk.css.map": "/myApp-social-network/static/css/3.50779102.chunk.css.map",
+    "static/css/4.674e462f.chunk.css.map": "/myApp-social-network/static/css/4.674e462f.chunk.css.map",
+    "static/css/main.370dda9a.chunk.css.map": "/myApp-social-network/static/css/main.370dda9a.chunk.css.map",
+    "static/js/2.1c203ea7.chunk.js.LICENSE.txt": "/myApp-social-network/static/js/2.1c203ea7.chunk.js.LICENSE.txt",
+    "static/media/MontserratAlternates-Medium.ttf": "/myApp-social-network/static/media/MontserratAlternates-Medium.55b7b1d4.ttf",
+    "static/media/load.gif": "/myApp-social-network/static/media/load.11804140.gif",
+    "static/media/myApp.png": "/myApp-social-network/static/media/myApp.def11ce0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.850c4125.js",
+    "static/js/2.1c203ea7.chunk.js",
+    "static/css/main.370dda9a.chunk.css",
+    "static/js/main.09fafd62.chunk.js"
+  ]
+}
